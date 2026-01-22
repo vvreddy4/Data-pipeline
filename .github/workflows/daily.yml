@@ -1,4 +1,6 @@
 name: Daily Data Pipeline
+permissions:
+  contents: write
 
 on:
   schedule:
